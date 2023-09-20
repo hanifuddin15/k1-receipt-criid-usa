@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89087803106",
+    "project_id": "k1-recepit",
+    "storage_bucket": "k1-recepit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89087803106:android:a1e3e818cfce8de864a8bb",
+        "android_client_info": {
+          "package_name": "com.example.k1recipt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89087803106-8m4ufol6eqb9e34v00cst52u7ctrchcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnXh8VH4DdP7D71M1OfoiadOr2n17f1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89087803106-8m4ufol6eqb9e34v00cst52u7ctrchcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
