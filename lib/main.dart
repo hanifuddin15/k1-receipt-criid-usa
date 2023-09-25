@@ -26,9 +26,10 @@ import 'View/BottomAnimatedBar/bottomAnimatedBar.dart';
 import 'View/Promo Code/Promocode.dart';
 import 'View/expenseDetails/expenseDetails.dart';
 import 'View/login page/LoginPage.dart';
-import 'controller/ expenseAnalyticsController/detailExpenseAnalytics.dart';
+//import 'controller/ expenseAnalyticsController/detailExpenseAnalytics.dart';
 import 'controller/addSubCat/addSubCat.dart';
 import 'controller/employee_registration/employee_registration.dart';
+import 'controller/expenseAnalyticsController/detailExpenseAnalytics.dart';
 import 'controller/forgetpasswordController/resetPasswordStepOne.dart';
 import 'controller/getListPlanController/getListPlanController.dart';
 
